@@ -1,0 +1,1 @@
+A project for learning the basics of machine learning using the MNIST handwritten number dataset. This solution was taken from the textbook, 'Deep Learning with Keras' Written by Antonio Gulli and Sujit Pal.
